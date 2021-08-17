@@ -1,0 +1,54 @@
+body {
+	background-image: url(file:///Users/delfidaniel/Documents/producciondigital2/img/bg_ts.jpg);
+}
+
+.contenedor {
+	width: 70%;
+	border: 1px solid black;
+	margin: auto;
+
+}
+
+h1 {
+	margin: 1%;
+}
+
+.img {
+	width: 100%;
+
+}
+
+.contenido {
+	display: flex; flex-flow: wrap; margin: auto;
+
+}
+
+.txtpersonaje {
+width: 50%;
+float: right;
+
+ 
+}
+
+.imgpersonaje  {
+   width: 50%;
+   float: left;
+
+}
+
+
+.imgpersonaje img {
+	border-radius: 500px;
+	margin: 1%;
+}
+
+footer {
+	position: relative
+}
+
+.data {
+	position: absolute;
+}
+
+
+
