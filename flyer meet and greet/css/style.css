@@ -1,0 +1,44 @@
+* { margin:0; padding: 0;}
+body {font-family: 'IBM Plex Sans Thai', sans-serif; background-color: black; color: white;}
+
+.header h1 { font-family: 'Archivo Black', sans-serif; font-size: 80px; text-align: center; color: #CCFF00; margin-top: 3%;}
+
+.contenedor { width: 85%; margin: auto; ;}
+
+.contenido h1 { font-size: 50px; margin-left: 48%; }
+
+.contenido h2  { color: #CCFF00;  }
+
+.imagen { float: right; width: 60%; margin-top: -45%;}
+
+.imagen img {  width: 100%; margin-left: 10%; }
+
+.texto {  width: 40%; margin: 2%; margin-top: -1%;}
+
+.texto h2 { margin-left: 5%; }
+
+.texto p { margin-left: 3%; }
+
+.texto h3 { margin-left: 62%; color: #CCFF00; }
+
+.formulario { border: 1px solid white; width: 35%; margin-left: 5%;}
+
+.formulario div { margin-bottom: 5px; margin: 2%;  }
+
+.formulario h3 { color: #CCFF00; margin-left: 33%;}
+
+.formulario input { width: 100%; padding: 6px; border-radius: 3px; box-sizing: border-box; }
+
+.formulario select { width: 100%; padding: 6px; border-radius: 3px; box-sizing: border-box; }
+
+.boton input { background-color: white; color: black; text-align: center; width: 20%; margin-left: 40%;}
+
+.footer { margin-top: 3%; }
+
+.iconos { margin-left: 90%; margin-top: -5%; }
+
+.icono { width: 40%; color: white; }
+
+
+
+ 
